@@ -1,3 +1,3 @@
 # Newbies UI
 
-tbd
+tbd - update 2024/06/18
